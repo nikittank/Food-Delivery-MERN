@@ -1,6 +1,6 @@
 # Food-Delivery-MERN
 A web-based platform built using the MERN stack (MongoDB, Express.js, React, Node.js) that facilitates the process of ordering and delivering food items online.
-![screencapture-localhost-3000-2024-01-13-21_03_10 (1)](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/43d7cf5c-fe9f-4ca8-aedd-081fcd604f0f)
+![screencapture-localhost-3000-2024-01-13-21_27_50](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/c5660751-2cb1-48ac-b5e8-a8e49546b510)
 ![screencapture-localhost-3000-listmenu-2024-01-13-21_03_27](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/1a4e489a-b37e-47bb-bf4f-0547e8ea6df1)
 ![screencapture-localhost-3000-contact-2024-01-13-21_06_23](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/d8ed51f4-5d9f-4626-9d08-2354b2d1b4a5)
 ![screencapture-localhost-3000-cart-2024-01-13-21_03_55](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/13400849-2d1a-4e6f-a53a-561f7f312bcb)
