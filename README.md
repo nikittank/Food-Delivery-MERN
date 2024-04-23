@@ -1,9 +1,28 @@
 # Food-Delivery-MERN
 A web-based platform built using the MERN stack (MongoDB, Express.js, React, Node.js) that facilitates the process of ordering and delivering food items online.
-![screencapture-localhost-3000-2024-01-13-21_27_50](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/c5660751-2cb1-48ac-b5e8-a8e49546b510)
-![screencapture-localhost-3000-listmenu-2024-01-13-21_03_27](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/1a4e489a-b37e-47bb-bf4f-0547e8ea6df1)
-![screencapture-localhost-3000-contact-2024-01-13-21_06_23](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/d8ed51f4-5d9f-4626-9d08-2354b2d1b4a5)
-![screencapture-localhost-3000-cart-2024-01-13-21_03_55](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/13400849-2d1a-4e6f-a53a-561f7f312bcb)
-![screencapture-checkout-stripe-c-pay-cs-test-b1Sjj6MuyrJdeMusupB1rqkzvhdNWwMOrltnpBPtrfKzqxyj3mMkGBNT5L-2024-01-13-21_04_16](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/2a8d076a-69e6-4692-bfb0-5cc37785da96)
-![screencapture-localhost-3000-signup-2024-01-13-21_02_36](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/c3436bcf-5001-407a-abf1-a25cb003135e)
-![screencapture-localhost-3000-login-2024-01-13-21_01_33](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/a0726be3-677e-41bc-b644-5e1a60e3c7e3)
+
+![screencapture-localhost-3000-2024-04-24-01_27_27](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/cbc9425d-0b80-408f-b60a-1b815f577335)
+
+
+![screencapture-localhost-3000-listmenu-2024-04-24-01_27_45](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/114cc6a3-4794-475f-bad3-540e4348ea11)
+
+![Screenshot 2024-04-24 012811](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/f4a4c701-aa29-4625-a004-9442516c2f30)
+
+
+![screencapture-localhost-3000-menu-656592f7e9235db76a0eda88-2024-04-24-01_28_49](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/ed8063db-7403-4a02-b250-c4e30696b9ac)
+
+
+![screencapture-localhost-3000-cart-2024-04-24-01_29_05](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/8455b40c-6196-4856-b1ab-94c39acd8e40)
+
+
+![screencapture-localhost-3000-login-2024-04-24-01_29_16](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/b8c81f40-61e6-4565-bf8a-bfcef47d4ec3)
+
+![screencapture-localhost-3000-contact-2024-04-24-01_29_46](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/5fa9968c-7bd1-4953-a159-b0417b095edc)
+
+![screencapture-localhost-3000-newproduct-2024-04-24-01_29_38](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/f0d5aa83-6479-4ecb-8135-2a24b7495da9)
+
+![screencapture-localhost-3000-signup-2024-04-24-01_29_23](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/086d9900-eff4-45a7-9074-cf8b40c86d2c)
+
+![screencapture-localhost-3000-about-2024-04-24-01_28_25](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/a50501d0-9879-4e20-94e0-ab4d86296d27)
+
+![image](https://github.com/nikittank/Food-Delivery-MERN/assets/91609970/7d442c44-e881-4b0a-b37e-4a936c75412d)
